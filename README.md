@@ -54,7 +54,7 @@ Verkossa näkyy paljon sisältöjä, joissa tekoäly, automaatio, sijoittaminen 
 
 Keskusteluissa voi esiintyä esimerkiksi nimiä kuten:
 
-- - Olli Rehn
+- Olli Rehn
 - Annika Damström
 - Ruben Stiller
 
